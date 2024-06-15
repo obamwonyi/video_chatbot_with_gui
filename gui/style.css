@@ -5,6 +5,13 @@ body{
     overflow-x: hidden;
 }
 
+.main-section
+{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+
 .square{
     position: relative;
     width: 400px;
